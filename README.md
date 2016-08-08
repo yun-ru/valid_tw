@@ -7,10 +7,10 @@ Valid(`type, option`)
 
 ```js
 Valid("phone","0921-876543");
-=> true
+//=> true
 
 Valid("phone","04-98765412","home");
-=> true
+//=> true
 ```
 
 ## Types
